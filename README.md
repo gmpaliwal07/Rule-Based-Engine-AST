@@ -26,7 +26,7 @@ The Rule Engine Application is a web-based application that allows users to crea
 ### Clone the Repository
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/rule-engine-app.git
+   git clone https://github.com/gmpaliwal07/Rule-Based-Engine-AST.git
    
 Install Dependencies
 
